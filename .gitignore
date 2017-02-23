@@ -3,3 +3,7 @@
 /x64/Debug
 *.db
 *.opendb
+/Debug
+/.vs/foo_playlists_tag/v14
+*.filters
+*.user
